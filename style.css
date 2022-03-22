@@ -1,0 +1,27 @@
+h1 {
+    background-color: black;
+    padding-left: 20px;
+}
+.white {
+    color: white;
+}
+.cyan{
+    color: cyan;
+}
+h2{
+    color: white;
+    background-color: rebeccapurple;
+    text-align: center;
+    font-style: italic;
+    margin-top: -15px;
+    
+}
+h3 {
+    background-color: lightskyblue;
+    text-align: right;
+    margin-top: -15px;
+}
+a{
+    color: black;
+    padding-right: 20px;
+}
