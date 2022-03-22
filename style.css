@@ -4,9 +4,11 @@ h1 {
 }
 .white {
     color: white;
+    font-family: 'Comic Sans Ms'
 }
 .cyan { 
     color: cyan;
+    font-family: 'Comic Sans Ms'
 }
 h2 {
     color: white;
@@ -14,14 +16,20 @@ h2 {
     text-align: center;
     font-style: italic;
     margin-top: -15px;
+    font-family: 'Comic Sans Ms';
+    font-weight: normal;
+    padding-bottom: 5px;
     
 }
 h3 {
-    background-color: lightskyblue;
+    background-color: #9FC5F8;
     text-align: right;
     margin-top: -15px;
+    padding-bottom: 5px;
 }
 a {
-    color: black;
+    color: #20124D; 
     padding-right: 20px;
+    font-family: 'Comic Sans Ms';
+    font-weight: normal;
 }
